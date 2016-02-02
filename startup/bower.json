@@ -1,0 +1,29 @@
+{
+  "name": "startup",
+  "authors": [
+    "bedocument"
+  ],
+  "description": "1.0.0",
+  "main": "index.html",
+  "moduleType": [
+    "globals"
+  ],
+  "keywords": [
+    "startup"
+  ],
+  "license": "MIT",
+  "homepage": "",
+  "private": true,
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "foundation": "^5.5.3",
+    "foundation-icons": "*",
+    "bourbon": "^4.2.6"
+  }
+}
